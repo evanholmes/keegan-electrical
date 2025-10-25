@@ -2,8 +2,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 export default {
   title: "Keegan’s Electrical Code of Conduct Bible",
-  url: 'http://localhost',          // dev
-  baseUrl: '/',                     // dev
+  url: 'https://evanholmes.github.io', //dev
+  baseUrl: '/keegan-electrical/', //dev
   organizationName: 'evanholmes',   // your GitHub user
   projectName: 'keegan-electrical', // your repo
 
